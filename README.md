@@ -17,3 +17,5 @@ The Repository contains various payloads, tools, tips and tricks from various ha
 - [more](XSS-payloads/AwesomeXSS-master/README.md)
 ## XXE Payloads
 - [xxe-payloads](XXE-payloads)
+## Google Dorks
+- [Google-dork-list](Gdorks)
