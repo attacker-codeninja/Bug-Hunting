@@ -15,3 +15,5 @@ The Repository contains various payloads, tools, tips and tricks from various ha
 - [custom-xss-list-by-me](XSS-payloads/xss-custom-payload.md)
 - [XSS-evil-svg and RCE](XSS-payloads/evilsvg-master)
 - [more](XSS-payloads/AwesomeXSS-master/README.md)
+## XXE Payloads
+- [xxe-payloads](XXE-payloads)
