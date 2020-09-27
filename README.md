@@ -1,5 +1,7 @@
 # Bug-Hunting
 The Repository contains various payloads, tools, tips and tricks from various hackers around the world.
+### Follow me on
+[![Twitter Follow](https://img.shields.io/twitter/follow/thevillagehackr?style=social)](https://twitter.com/thevillagehackr) [![Twitter Follow](https://img.shields.io/twitter/follow/TVHSecurity?style=social)](https://twitter.com/intent/follow?screen_name=TVHSecurity)
 ## Content Discovery
 - [Wordlist](Content-discovery)
 ## Pentest Master
