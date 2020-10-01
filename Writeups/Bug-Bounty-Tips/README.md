@@ -191,7 +191,7 @@ PHP ==> .php,.php5,php3,.php2,.shtml,.html,.php.png(double extension attack)
 cmd,exec,command,execute,ping,query,jump,code,reg,do,func,arg,option,load,process,step,read,function,req,feature,exe,module,payload,run,print
 ```
 ### Found Grapql Endpoint
-Send the following query to list the whole schema of the endpoint. it will list all objects and the feilds they have.
+Send the following query to list the whole schema of the endpoint. it will list all objects and the fields they have.
 ```json
 {
     __schema
