@@ -21,3 +21,5 @@ The Repository contains various payloads, tools, tips and tricks from various ha
 - [xxe-payloads](XXE-payloads)
 ## Google Dorks
 - [Google-dork-list](Gdorks)
+## Writeup + Tools + Tips + Tricks
+[Bug-Hunt-tips](https://github.com/thevillagehacker/Bug-Hunting/blob/master/Writeups/Bug-Bounty-Tips/README.md)
