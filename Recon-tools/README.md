@@ -49,6 +49,7 @@ It's recommended to pair this with gau and then https://github.com/GerbenJavado/
 
 10. [rush](https://github.com/shenwei356/rush)
 ### Description
+A cross-platform command-line tool for executing jobs in parallel
 
 11. [raccoon](https://github.com/evyatarmeged/Raccoon)
 ### Description
