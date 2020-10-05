@@ -420,6 +420,6 @@ site.com/file.php~  ====> 200 ok <you will get source_code>
 ### SQL Injection
 1. Found Blind SQL Injection 
 2. use .sqlmap -r req -p vulns --dbs
-3. if the backend db is firebird and if you can't retrive dbname ot table
+3. if the backend db is firebird and if you can't retrive dbname or table
 4. change payload to -r req -p vuln--level 3 --risk 3 --thread 8 --dbms Firebird --tables.
 
