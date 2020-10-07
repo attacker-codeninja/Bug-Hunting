@@ -92,3 +92,10 @@ DNSProbe is a tool built on top of retryabledns that allows you to perform multi
 20. [subfinder](https://github.com/projectdiscovery/subfinder)
 ### Description
 subfinder is a subdomain discovery tool that discovers valid subdomains for websites by using passive online sources. It has a simple modular architecture and is optimized for speed. subfinder is built for doing one thing only - passive subdomain enumeration, and it does that very well.
+
+21. [gf](https://github.com/tomnomnom/gf)
+### Description
+A wrapper around grep, to help you grep for things.
+- [gf-patterns](https://github.com/1ndianl33t/Gf-Patterns)
+### Description
+GF Paterns For (ssrf,RCE,Lfi,sqli,ssti,idor,url redirection,debug_logic, interesting Subs) parameters grep.
