@@ -40,7 +40,7 @@ SecretFinder - A python script for find sensitive data (apikeys, accesstoken,jwt
 The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 ## GF Patterns
 - [gf](https://github.com/tomnomnom/gf)
-> Patterns_file
+> ***Patterns_file***
 - [gf-patterns](https://github.com/1ndianl33t/Gf-Patterns)
 ### Description
 GF Paterns For (ssrf,RCE,Lfi,sqli,ssti,idor,url redirection,debug_logic, interesting Subs) parameters grep.
