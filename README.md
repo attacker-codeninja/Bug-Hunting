@@ -16,6 +16,7 @@ The Repository contains various payloads, tools, tips and tricks from various ha
 - [XSS-Payload-list-2](XSS-payloads/xss-payload-list-master/Intruder/xss-payload-part%202.txt)
 - [custom-xss-list-by-me](XSS-payloads/xss-custom-payload.md)
 - [XSS-evil-svg and RCE](XSS-payloads/evilsvg-master)
+- [waeponized-payload](https://github.com/hakluke/weaponised-XSS-payloads)
 - [more](XSS-payloads/AwesomeXSS-master/README.md)
 ## XXE Payloads
 - [xxe-payloads](XXE-payloads)
@@ -25,3 +26,21 @@ The Repository contains various payloads, tools, tips and tricks from various ha
 - [Bug-Hunt-tips](https://github.com/thevillagehacker/Bug-Hunting/blob/master/Writeups/Bug-Bounty-Tips/README.md)
 ## IOS Penetration Testing
 - [IOS-Pentest](https://github.com/thevillagehacker/Mobile-Penetration-testing/blob/master/IOS/Readme.md)
+## Github Keyhacks
+- [git-keyhacks](https://github.com/streaak/keyhacks)
+### Description
+Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.
+## Secret Finder
+- [secret-finder]()
+### Description
+SecretFinder - A python script for find sensitive data (apikeys, accesstoken,jwt,..) and search anything on javascript files.
+## Big-list-of-naughty-strings
+- [naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings)
+### Description
+The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
+## GF Patterns
+- [gf](https://github.com/tomnomnom/gf)
+> Patterns_file
+- [gf-patterns](https://github.com/1ndianl33t/Gf-Patterns)
+### Description
+GF Paterns For (ssrf,RCE,Lfi,sqli,ssti,idor,url redirection,debug_logic, interesting Subs) parameters grep.
