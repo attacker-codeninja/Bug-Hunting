@@ -16,7 +16,7 @@ The Repository contains various payloads, tools, tips and tricks from various ha
 - [XSS-Payload-list-2](XSS-payloads/xss-payload-list-master/Intruder/xss-payload-part%202.txt)
 - [custom-xss-list-by-me](XSS-payloads/xss-custom-payload.md)
 - [XSS-evil-svg and RCE](XSS-payloads/evilsvg-master)
-- [waeponized-payload](https://github.com/hakluke/weaponised-XSS-payloads)
+- [Weaponized-payload](https://github.com/hakluke/weaponised-XSS-payloads)
 - [more](XSS-payloads/AwesomeXSS-master/README.md)
 ## XXE Payloads
 - [xxe-payloads](XXE-payloads)
