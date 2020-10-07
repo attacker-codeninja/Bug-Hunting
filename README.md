@@ -44,6 +44,4 @@ The Big List of Naughty Strings is a list of strings which have a high probabili
 - [gf-patterns](https://github.com/1ndianl33t/Gf-Patterns)
 ### Description
 GF Paterns For (ssrf,RCE,Lfi,sqli,ssti,idor,url redirection,debug_logic, interesting Subs) parameters grep.
-## Bug Hunting Tips from Adithya Shende
-I don't know about him but his tips are good to check out while hunting for bugs. 
-- [tips-from-adithya](Books/Book%20of%20tips_%20Aditya%20Shende%20pdf.pdf)
+
