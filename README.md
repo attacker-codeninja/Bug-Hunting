@@ -4,7 +4,7 @@ The Repository contains various payloads, tools, tips, Booka and tricks from var
 [![Twitter Follow](https://img.shields.io/twitter/follow/thevillagehackr?style=social)](https://twitter.com/thevillagehackr) [![Twitter Follow](https://img.shields.io/twitter/follow/TVHSecurity?style=social)](https://twitter.com/intent/follow?screen_name=TVHSecurity)
 ## Writeup + Tools + Tips + Tricks + blogs
 - [Bug-Hunt-tips](Writeups/Bug-Bounty-Tips/Tip-files)
-- [blogs](Writeups/blogs)
+- [blogs](Writeups/Blogs)
 ## Content Discovery
 - [Wordlist](Content-discovery)
 ## Pentest Master
