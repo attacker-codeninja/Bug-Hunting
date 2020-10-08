@@ -45,3 +45,6 @@ The Big List of Naughty Strings is a list of strings which have a high probabili
 ### Description
 GF Paterns For (ssrf,RCE,Lfi,sqli,ssti,idor,url redirection,debug_logic, interesting Subs) parameters grep.
 
+
+
+---------------------------------------------------------- 👉 **[Back to Main Page](https://github.com/thevillagehacker/Bug-Hunting)** 👈 ----------------------------------------------------------
