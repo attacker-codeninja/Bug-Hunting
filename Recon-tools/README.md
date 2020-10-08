@@ -99,3 +99,4 @@ A wrapper around grep, to help you grep for things.
 - [gf-patterns](https://github.com/1ndianl33t/Gf-Patterns)
 ### Description
 GF Paterns For (ssrf,RCE,Lfi,sqli,ssti,idor,url redirection,debug_logic, interesting Subs) parameters grep.
+---------------------------------------------------------- 👉 **[Back to Main Page](https://github.com/thevillagehacker/Bug-Hunting)** 👈 ----------------------------------------------------------
