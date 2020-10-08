@@ -3,4 +3,4 @@
 ## Bug Hunting Tips files -1
 - [File-1](tip-file-1.md)
 ## 📕 Bug Hunting Tips files -2
-- [File-1](tip-file-2.md)
+- [File-2](tip-file-2.md)
