@@ -2,6 +2,8 @@
 The Repository contains various payloads, tools, tips, Booka and tricks from various hackers around the world.
 ### Follow me on
 [![Twitter Follow](https://img.shields.io/twitter/follow/thevillagehackr?style=social)](https://twitter.com/thevillagehackr) [![Twitter Follow](https://img.shields.io/twitter/follow/TVHSecurity?style=social)](https://twitter.com/intent/follow?screen_name=TVHSecurity)
+## Writeup + Tools + Tips + Tricks
+- [Bug-Hunt-tips](https://github.com/thevillagehacker/Bug-Hunting/blob/master/Writeups/Bug-Bounty-Tips/README.md)
 ## Content Discovery
 - [Wordlist](Content-discovery)
 ## Pentest Master
@@ -22,8 +24,6 @@ The Repository contains various payloads, tools, tips, Booka and tricks from var
 - [xxe-payloads](XXE-payloads)
 ## Google Dorks
 - [Google-dork-list](Gdorks)
-## Writeup + Tools + Tips + Tricks
-- [Bug-Hunt-tips](https://github.com/thevillagehacker/Bug-Hunting/blob/master/Writeups/Bug-Bounty-Tips/README.md)
 ## IOS Penetration Testing
 - [IOS-Pentest](https://github.com/thevillagehacker/Mobile-Penetration-testing/blob/master/IOS/Readme.md)
 ## Github Keyhacks
