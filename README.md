@@ -3,7 +3,7 @@ The Repository contains various payloads, tools, tips, Booka and tricks from var
 ### Follow me on
 [![Twitter Follow](https://img.shields.io/twitter/follow/thevillagehackr?style=social)](https://twitter.com/thevillagehackr) [![Twitter Follow](https://img.shields.io/twitter/follow/TVHSecurity?style=social)](https://twitter.com/intent/follow?screen_name=TVHSecurity)
 ## Writeup + Tools + Tips + Tricks
-- [Bug-Hunt-tips](https://github.com/thevillagehacker/Bug-Hunting/blob/master/Writeups/Bug-Bounty-Tips/README.md)
+- [Bug-Hunt-tips](Writeups/Bug-Bounty-Tips/Tip-files/README.md)
 ## Content Discovery
 - [Wordlist](Content-discovery)
 ## Pentest Master
