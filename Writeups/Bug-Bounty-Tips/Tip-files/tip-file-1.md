@@ -1,4 +1,4 @@
-# Bug Bounty Tips
+# Bug Bounty Tips File -1 
 ### Admin Panel Bypass tricks and techniques.
 #### Example
 ```js
