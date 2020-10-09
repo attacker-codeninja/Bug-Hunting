@@ -37,5 +37,4 @@ Keyhacks is a repository which shows quick ways in which API keys leaked by a bu
 The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 
 
-
----------------------------------------------------------- 👉 **[![Back to Main Page](Writeups/Bug-Bounty-Tips/img/home.png){height="100px" width="100px"}](https://github.com/thevillagehacker/Bug-Hunting)** 👈 ----------------------------------------------------------
+   **[![Back to Main Page](Writeups/Bug-Bounty-Tips/img/home.png)](https://github.com/thevillagehacker/Bug-Hunting)** 
