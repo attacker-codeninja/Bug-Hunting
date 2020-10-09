@@ -117,5 +117,5 @@ cat target.txt | waybackurls | gf xss | kxss
 ```
 **Tool for Burpsuite**
 > ***https://github.com/antichown/0x94TR***   
-> ***For more info***   
+> ***For more info - Exploit Proof of Concept***   
 > ***https://youtu.be/TrQi9iwtA0k***
