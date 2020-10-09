@@ -38,3 +38,4 @@ The Big List of Naughty Strings is a list of strings which have a high probabili
 
 
    **[![Back to Main Page](Writeups/Bug-Bounty-Tips/img/home.png |width=100)](https://github.com/thevillagehacker/Bug-Hunting)** 
+![very good|512x397,20%](//assets-meta-cdck-prod-meta.s3.dualstack.us-west-1.amazonaws.com/original/3X/0/3/03741c9f3eafd7fc8ccd791a6971a2c0d52783e4.jpg)
