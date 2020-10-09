@@ -1,5 +1,5 @@
 # Bug-Hunting
-The Repository contains various payloads, tools, tips, Booka and tricks from various hackers around the world.
+The Repository contains various payloads, tools, tips, Books and tricks from various hackers around the world.
 ### Follow me on
 [![Twitter Follow](https://img.shields.io/twitter/follow/thevillagehackr?style=social)](https://twitter.com/thevillagehackr) [![Twitter Follow](https://img.shields.io/twitter/follow/TVHSecurity?style=social)](https://twitter.com/intent/follow?screen_name=TVHSecurity)
 ## Writeup + Tools + Tips + Tricks + blogs
@@ -37,4 +37,5 @@ Keyhacks is a repository which shows quick ways in which API keys leaked by a bu
 The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 
 
+---------------------------------------------------------- 👉 **[Back to Main Page](https://github.com/thevillagehacker/Bug-Hunting)** 👈 ----------------------------------------------------------
  
