@@ -4,3 +4,6 @@
 > ***https://samcurry.net/hacking-apple/***
 ## HTTP Request Smuggling Tips from honoki
 > ***https://honoki.net/2020/02/18/http-request-smuggling-5-practical-tips/***
+
+
+---------------------------------------------------------- 👉 **[Back to Main Page](https://github.com/thevillagehacker/Bug-Hunting)** 👈 ----------------------------------------------------------
