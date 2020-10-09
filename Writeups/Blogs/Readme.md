@@ -6,5 +6,8 @@
 > ***https://honoki.net/2020/02/18/http-request-smuggling-5-practical-tips/***
 ## XSS in PhantomJS
 > ***https://buer.haus/2017/06/29/escalating-xss-in-phantomjs-image-rendering-to-ssrflocal-file-read/***
+## Exploiting Open Redirect Vulnerabilities
+> ***https://www.hahwul.com/phoenix/ssrf-open-redirect***
+
 
 ---------------------------------------------------------- 👉 **[Back to Main Page](https://github.com/thevillagehacker/Bug-Hunting)** 👈 ----------------------------------------------------------
