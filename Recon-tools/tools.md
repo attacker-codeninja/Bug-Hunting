@@ -14,3 +14,4 @@
 14. ***[subjs-js-finder](https://github.com/lc/subjs)***
 15. ***[WaybackURLs](https://github.com/tomnomnom/waybackurls)***
 16. ***[Subdomain-Takeover](https://github.com/antichown/subdomain-takeover)***
+17. ***[Gospider](https://github.com/jaeles-project/gospider)***
