@@ -15,3 +15,9 @@
 15. ***[WaybackURLs](https://github.com/tomnomnom/waybackurls)***
 16. ***[Subdomain-Takeover](https://github.com/antichown/subdomain-takeover)***
 17. ***[Gospider](https://github.com/jaeles-project/gospider)***
+18. ***[CRLFUZZ](https://github.com/dwisiswant0/crlfuzz)***
+19. ***[IIS-Shortname-Scanner](https://github.com/irsdl/IIS-ShortName-Scanner)***
+20. > ***[GF-tomnom](https://github.com/tomnomnom/gf)***
+    > ***[GF-Patterns](https://github.com/1ndianl33t/Gf-Patterns)***
+21. ***[CORS-Exploiter](https://github.com/sayaanalam/CORS-EXPLOIT)***
+22. ***[Iblessing](https://github.com/Soulghost/iblessing)***
