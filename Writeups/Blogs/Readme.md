@@ -28,4 +28,8 @@
 > ***https://medium.com/@sechunter/exploiting-admin-panel-like-a-boss-fc2dd2499d31***
 ## 🐞 BugPoC LFI Challenge
 > ***https://hipotermia.pw/bb/bugpoc-lfi-challenge***
+## Powerfull HTTP Request Smugling
+> ***https://medium.com/@ricardoiramar/the-powerful-http-request-smuggling-af208fafa142***
+
+
 ---------------------------------------------------------- 👉 **[Back to Main Page](https://github.com/thevillagehacker/Bug-Hunting)** 👈 ----------------------------------------------------------
