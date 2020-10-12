@@ -16,5 +16,11 @@
 > ***https://blog.dixitaditya.com/leveraging-xss-to-read-internal-files/amp/?__twitter_impression=true***
 ## Unauthenticated Account Takeover through HTTP Leak
 > ***https://medium.com/@mrnikhilsri/unauthenticated-account-takeover-through-http-leak-33386bb0ba0b***
+## Account Takeover via IDOR in Starbucks Singapore
+> ***http://www.kamilonurozkaleli.com/posts/starbucks-singapore-account-takeover/***
+## CSRF Exploiting in JSON Endpoint
+> ***https://rootsploit.com/exploiting-csrf-on-json-endpoint-w-o-flash/#comment-5***      
+(***Note: Rootsploit has plenty of posts for Bug Bounty Writeups)***      
+> ***https://rootsploit.com/*** 
 
 ---------------------------------------------------------- 👉 **[Back to Main Page](https://github.com/thevillagehacker/Bug-Hunting)** 👈 ----------------------------------------------------------
