@@ -7,7 +7,8 @@
 ## XSS in PhantomJS
 > ***https://buer.haus/2017/06/29/escalating-xss-in-phantomjs-image-rendering-to-ssrflocal-file-read/***
 ## Exploiting Open Redirect Vulnerabilities
-> ***https://www.hahwul.com/phoenix/ssrf-open-redirect***
+> ***https://www.hahwul.com/phoenix/ssrf-open-redirect***     
+> ***https://hackerone.com/reports/978680***
 
 
 ---------------------------------------------------------- 👉 **[Back to Main Page](https://github.com/thevillagehacker/Bug-Hunting)** 👈 ----------------------------------------------------------
