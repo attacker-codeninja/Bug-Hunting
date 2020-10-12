@@ -13,5 +13,7 @@
 > ***https://medium.com/@pratiky054/html-injection-unique-exploitation-a5c3d4e6fed8***
 ## Leveraging XSS to Read Internal Files
 > ***https://blog.dixitaditya.com/leveraging-xss-to-read-internal-files/amp/?__twitter_impression=true***
+## Unauthenticated Account Takeover through HTTP Leak
+> ***https://medium.com/@mrnikhilsri/unauthenticated-account-takeover-through-http-leak-33386bb0ba0b***
 
 ---------------------------------------------------------- 👉 **[Back to Main Page](https://github.com/thevillagehacker/Bug-Hunting)** 👈 ----------------------------------------------------------
