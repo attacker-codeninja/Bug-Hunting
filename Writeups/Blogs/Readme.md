@@ -1,4 +1,4 @@
-# Bug Bounty Blogs and Writeups of different vulnerablities
+# 👨🏻‍💻 Bug Bounty Blogs and Writeups of different vulnerablities
 ## This is how they hacked Apple
 ***Some of the vulnerailities are explained here, take a look down here***
 > ***https://samcurry.net/hacking-apple/***
@@ -22,5 +22,10 @@
 > ***https://rootsploit.com/exploiting-csrf-on-json-endpoint-w-o-flash/#comment-5***      
 (***Note: Rootsploit has plenty of posts for Bug Bounty Writeups)***      
 > ***https://rootsploit.com/*** 
-
+## Find Sensitive Information via Source Code
+> ***https://medium.com/@sechunter/js-is-love-%EF%B8%8F-ca393a4849e9***
+## Exploiting Admin Panel Like a Boss
+> ***https://medium.com/@sechunter/exploiting-admin-panel-like-a-boss-fc2dd2499d31***
+## BugPoC LFI Challenge
+> ***https://hipotermia.pw/bb/bugpoc-lfi-challenge***
 ---------------------------------------------------------- 👉 **[Back to Main Page](https://github.com/thevillagehacker/Bug-Hunting)** 👈 ----------------------------------------------------------
