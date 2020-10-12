@@ -1,3 +1,4 @@
+# 🚀 Tools for Bug Hunting 🛠
 1. ***[gau](https://github.com/lc/gau)***
 2. ***[secretfinder](https://github.com/m4ll0k/SecretFinder)***
 3. ***[Oralyzer](https://github.com/0xNanda/Oralyzer)***
