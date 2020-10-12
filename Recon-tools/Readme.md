@@ -23,3 +23,4 @@
 21. ***[CORS-Exploiter](https://github.com/sayaanalam/CORS-EXPLOIT)***
 22. ***[Iblessing](https://github.com/Soulghost/iblessing)***
 23. ***[Linkfinder](https://github.com/GerbenJavado/LinkFinder)***
+24. ***[naabu](https://github.com/projectdiscovery/naabu)***
