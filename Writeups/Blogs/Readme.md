@@ -26,6 +26,6 @@
 > ***https://medium.com/@sechunter/js-is-love-%EF%B8%8F-ca393a4849e9***
 ## Exploiting Admin Panel Like a Boss
 > ***https://medium.com/@sechunter/exploiting-admin-panel-like-a-boss-fc2dd2499d31***
-## BugPoC LFI Challenge
+## 🐞 BugPoC LFI Challenge
 > ***https://hipotermia.pw/bb/bugpoc-lfi-challenge***
 ---------------------------------------------------------- 👉 **[Back to Main Page](https://github.com/thevillagehacker/Bug-Hunting)** 👈 ----------------------------------------------------------
