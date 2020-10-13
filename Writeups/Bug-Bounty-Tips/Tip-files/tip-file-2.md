@@ -10,6 +10,25 @@ org:Target "S3_SECRET_ACCESS_KEY"
 org:Target "S3_ENDPOINT"
 org:Target  "AWS_ACCESS_KEY_ID"
 org:Target  "list_aws_accounts"
+api_key
+“api keys”
+authorization_bearer:
+oauth
+auth
+authentication
+client_secret
+api_token:
+“api token”
+client_id
+password
+user_password
+user_pass
+passcode
+client_secret
+secret
+password hash
+OTP
+user auth
 ```
 ## XSS Firewall Bypass Techniques
 1. Check if firewall is blocking only lowercases
