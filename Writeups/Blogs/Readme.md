@@ -30,6 +30,9 @@
 > ***https://hipotermia.pw/bb/bugpoc-lfi-challenge***
 ## Powerfull HTTP Request Smugling
 > ***https://medium.com/@ricardoiramar/the-powerful-http-request-smuggling-af208fafa142***
+## How I hacked hundreds of companies through their helpdesk
+> ***https://medium.com/intigriti/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c***
+
 
 
 ---------------------------------------------------------- 👉 **[Back to Main Page](https://github.com/thevillagehacker/Bug-Hunting)** 👈 ----------------------------------------------------------
