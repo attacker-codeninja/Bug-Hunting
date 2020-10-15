@@ -32,7 +32,8 @@
 > ***https://medium.com/@ricardoiramar/the-powerful-http-request-smuggling-af208fafa142***
 ## How I hacked hundreds of companies through their helpdesk
 > ***https://medium.com/intigriti/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c***
-
+## Weaponizing XSS For Fun & Profit😆😂🤣
+> ***https://saadahmedx.medium.com/weaponizing-xss-for-fun-profit-a1414f3fcee9***
 
 
 ---------------------------------------------------------- 👉 **[Back to Main Page](https://github.com/thevillagehacker/Bug-Hunting)** 👈 ----------------------------------------------------------
