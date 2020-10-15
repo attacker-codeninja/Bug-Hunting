@@ -24,3 +24,5 @@
 22. ***[Iblessing](https://github.com/Soulghost/iblessing)***
 23. ***[Linkfinder](https://github.com/GerbenJavado/LinkFinder)***
 24. ***[naabu](https://github.com/projectdiscovery/naabu)***
+25. ***[FavFreak](https://github.com/devanshbatham/FavFreak)***
+26. ***[Feroxbuster](https://github.com/epi052/feroxbuster)***
