@@ -34,6 +34,11 @@
 > ***https://medium.com/intigriti/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c***
 ## Weaponizing XSS For Fun & Profit😆😂🤣
 > ***https://saadahmedx.medium.com/weaponizing-xss-for-fun-profit-a1414f3fcee9***
+## Shodan Pentesting Guide
+> ***https://community.turgensec.com/shodan-pentesting-guide/***
+## Hacking HTTP CORS from inside out: a theory to practice approach
+> ***https://medium.com/bugbountywriteup/hacking-http-cors-from-inside-out-512cb125c528***
+
 
 
 ---------------------------------------------------------- 👉 **[Back to Main Page](https://github.com/thevillagehacker/Bug-Hunting)** 👈 ----------------------------------------------------------
