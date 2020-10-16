@@ -27,3 +27,4 @@
 25. ***[FavFreak](https://github.com/devanshbatham/FavFreak)***
 26. ***[Feroxbuster](https://github.com/epi052/feroxbuster)***
 27. ***[Subdomainizer](https://github.com/nsonaniya2010/SubDomainizer)***
+28. ***[qsreplace](https://github.com/tomnomnom/qsreplace)***
