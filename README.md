@@ -4,7 +4,7 @@ The Repository contains various payloads, tools, tips, Books and tricks from var
 [![Twitter Follow](https://img.shields.io/twitter/follow/thevillagehackr?style=social)](https://twitter.com/thevillagehackr) [![Twitter Follow](https://img.shields.io/twitter/follow/TVHSecurity?style=social)](https://twitter.com/intent/follow?screen_name=TVHSecurity)
 ## How To HUNT
 ***(Note : A valuable Resource please take a look into this repo)***
-> ***https://github.com/thevillagehacker/HowToHunt***
+> ***https://github.com/KathanP19/HowToHunt***
 ## Writeup + Tools + Tips + Tricks + blogs
 - **[Bug-Hunting-tips](Writeups/Bug-Bounty-Tips/Tip-files)**
 - **[Blogs](Writeups/Blogs)**
